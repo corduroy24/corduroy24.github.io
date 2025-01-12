@@ -21,14 +21,4 @@ If you’re looking for someone to tackle tough data challenges or just want to 
 
 🖥️ **Personal Projects**:
 
-I have an [occasional podcast](https://podcast.tdhopper.com) in which I talk to friends about things they're interested in. You can find it in your podcast directory or at [podcast.tdhopper.com](https://podcast.tdhopper.com).
 
-Years ago, I created [Should I Get a Phd?](https://tdhopper.com/phd) where I interviewed nine friends about whether a young, bright student should consider pursuing a PhD. This is the resource I wish I'd had before starting a PhD program, and it's been useful to many.
-
-[Python Plotting for Exploratory Data Analysis](https://pythonplot.com) is a Rosetta Stone for Python plotting libraries, and it also compares them to the GOAT of plotting libraries: ggplot.
-
-I created [Notes on Dirichlet Processes](https://dp.tdhopper.com) after working on a [DARPA](https://www.darpa.mil)-funded open source project for developing [Bayesian nonparametric models in Python](http://datamicroscopes.github.io). I did a lot of work to understand Bayesian nonparametrics and derive the Gibbs sampler for Hierarchical Dirichlet Processes. [Notes on Dirichlet Processes](https://dp.tdhopper.com) shares what I learned for the benefit of others.
-
-I enjoy wildlife and nature photography in my free time. [dothopper photo](https://photos.tdhopper.com) is my gallery.
-
-[Free Disk Space](https://freespace.tdhopper.com) is a little site I maintain with commands for freeing up disk space on your computer.
